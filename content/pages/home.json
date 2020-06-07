@@ -11,6 +11,11 @@
     "textline": "My name is John Peden and I'm a contract front-end web developer based in Manchester.",
     "ctas": [
       {
+        "label": "Learn More",
+        "link": "/ach",
+        "primary": false
+      },
+      {
         "label": "Get In Touch",
         "link": "/contact",
         "primary": true,
