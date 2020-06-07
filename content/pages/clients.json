@@ -15,7 +15,7 @@
       "_template": "ContentBlock"
     },
     {
-      "image": "../images/coop.png",
+      "image": "../images/coop.jpg",
       "_template": "ImageBlock",
       "content": ""
     }
