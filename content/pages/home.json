@@ -11,18 +11,18 @@
     "textline": "I'm a senior front-end developer based in Manchester.",
     "ctas": [
       {
-        "label": "Learn More",
-        "link": "/ach",
-        "primary": false
-      },
-      {
         "label": "Get In Touch",
         "link": "/contact",
         "primary": true,
         "arrow": false
+      },
+      {
+        "label": "Learn More",
+        "link": "/about",
+        "primary": false
       }
     ],
-    "image": "../images/hala-alghanim-lv-H5A1HwPQ-unsplash.jpg",
+    "image": "../images/manchester.jpg",
     "large": true
   },
   "displayTitle": false,
