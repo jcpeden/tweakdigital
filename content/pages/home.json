@@ -7,8 +7,8 @@
     }
   ],
   "hero": {
-    "headline": "Hi there!",
-    "textline": "My name is John Peden and I'm a contract front-end web developer based in Manchester.",
+    "headline": "Hi, my name is John",
+    "textline": "I'm a senior front-end developer based in Manchester.",
     "ctas": [
       {
         "label": "Learn More",
@@ -22,7 +22,7 @@
         "arrow": false
       }
     ],
-    "image": "../images/john-suit-beach.jpg",
+    "image": "../images/hala-alghanim-lv-H5A1HwPQ-unsplash.jpg",
     "large": true
   },
   "displayTitle": false,
