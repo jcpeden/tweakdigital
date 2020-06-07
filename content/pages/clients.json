@@ -1,5 +1,5 @@
 {
-  "title": "Clients",
+  "title": "About",
   "path": "/clients",
   "blocks": [
     {
@@ -19,5 +19,8 @@
       "_template": "ImageBlock",
       "content": ""
     }
-  ]
+  ],
+  "hero": {
+    "image": "../images/hala-alghanim-lv-H5A1HwPQ-unsplash.jpg"
+  }
 }
