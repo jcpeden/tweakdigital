@@ -1,0 +1,13 @@
+{
+  "title": "Achievements",
+  "path": "/achievements",
+  "blocks": [
+    {
+      "title": "Achievements",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    }
+  ]
+}
