@@ -1,6 +1,10 @@
 {
   "menuItems": [
     {
+      "label": "Achievements",
+      "link": "/achievements"
+    },
+    {
       "label": "Home",
       "link": "/"
     },
