@@ -3,11 +3,6 @@
   "path": "/clients",
   "blocks": [
     {
-      "image": "../images/coop.png",
-      "_template": "ImageBlock",
-      "content": ""
-    },
-    {
       "title": "Clients",
       "center": false,
       "underline": true,
