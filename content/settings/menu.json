@@ -1,6 +1,10 @@
 {
   "menuItems": [
     {
+      "label": "Clients",
+      "link": "/clients"
+    },
+    {
       "label": "Home",
       "link": "/"
     },
