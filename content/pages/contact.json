@@ -9,29 +9,9 @@
       "content": ""
     },
     {
-      "_template": "FormBlock",
-      "name": "Contact Form",
-      "fields": [
-        {
-          "label": "Name",
-          "inputType": "text",
-          "autocomplete": "name",
-          "_template": "nameInputBlock"
-        },
-        {
-          "label": "Email",
-          "inputType": "text",
-          "autocomplete": "email",
-          "_template": "emailInputBlock"
-        },
-        {
-          "label": "Message",
-          "inputType": "textarea",
-          "autocomplete": "",
-          "_template": "messageInputBlock"
-        }
-      ],
-      "content": ""
+      "content": "Want to get in touch? Please drop me an email on [john@tweakdigital.co.uk](mailto:john@tweakdigital.co.uk).\n\nYou can also get hold of me on 07955 382603.",
+      "center": false,
+      "_template": "ContentBlock"
     }
   ],
   "displayTitle": true
