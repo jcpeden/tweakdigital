@@ -9,6 +9,11 @@
       "content": ""
     },
     {
+      "content": "asda",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "_template": "FormBlock",
       "name": "Contact Form",
       "fields": [
