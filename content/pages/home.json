@@ -2,8 +2,13 @@
   "path": "/",
   "blocks": [
     {
+      "content": "",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "_template": "ContentBlock",
-      "content": "I'm currently contracting at The Co-op, working on their Legal Services website. They've extended my contract out until November 2020 so I won't be looking for a new role until September at the earliest.\n \n In the meantime, I created this site because my old one was a pretty-dated WordPress affair and I wanted to start publishing some of the tools I've built for myself over the past few years. I'll be adding them in the near future."
+      "content": "**Clients**\n\nI'm currently contracting at The Co-op, working on their Legal Services website. They've extended my contract out until November 2020 so I won't be looking for a new role until September at the earliest.\n\nIn the meantime, I created this site because my old one was a pretty-dated WordPress affair and I wanted to start publishing some of the tools I've built for myself over the past few years. I'll be adding them in the near future."
     }
   ],
   "hero": {
