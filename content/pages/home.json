@@ -11,10 +11,10 @@
     "textline": "My name is John Peden and I'm a contract front-end web developer based in Manchester.",
     "ctas": [
       {
-        "label": "Contact Me",
+        "label": "Get In Touch",
         "link": "/contact",
         "primary": true,
-        "arrow": true
+        "arrow": false
       }
     ],
     "image": "../images/john-suit-beach.jpg",
