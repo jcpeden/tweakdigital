@@ -4,14 +4,9 @@
   "blocks": [
     {
       "_template": "TitleBlock",
-      "title": "",
+      "title": "Contact",
       "underline": true,
       "content": ""
-    },
-    {
-      "content": "asda",
-      "center": false,
-      "_template": "ContentBlock"
     },
     {
       "_template": "FormBlock",
