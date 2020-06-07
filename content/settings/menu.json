@@ -1,12 +1,12 @@
 {
   "menuItems": [
     {
-      "label": "Clients",
-      "link": "/clients"
-    },
-    {
       "label": "Home",
       "link": "/"
+    },
+    {
+      "label": "Clients",
+      "link": "/clients"
     },
     {
       "label": "Contact",
