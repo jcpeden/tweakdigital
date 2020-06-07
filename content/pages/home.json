@@ -15,12 +15,6 @@
         "link": "/contact",
         "primary": true,
         "arrow": true
-      },
-      {
-        "label": "Learn More",
-        "link": "/about",
-        "arrow": false,
-        "primary": false
       }
     ],
     "image": "../images/john-suit-beach.jpg",
