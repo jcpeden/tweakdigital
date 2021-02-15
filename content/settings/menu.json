@@ -1,10 +1,6 @@
 {
   "menuItems": [
     {
-      "link": "https://podcast.tweakdigital.co.uk/",
-      "label": "Podcast"
-    },
-    {
       "label": "Home",
       "link": "/"
     },
